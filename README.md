@@ -1,9 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Charles;barnejs%E2%9A%A1)](https://git.io/typing-svg)
+> Fullstack developer from Sacramento, California
+
+### 🤝 Want to collaborate?
+I am always open to discussing open source and tech with new people! Send me a message on [email](mailto:charlesbarnes.js@gmail.com).
 
 <!--
 **barnejs/barnejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
