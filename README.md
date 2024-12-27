@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Charles;barnejs%E2%9A%A1)](https://git.io/typing-svg)
-> Fullstack developer from Sacramento, California
+> Fullstack developer from West Sacramento, California
 
 ### 🤝 Want to collaborate?
 I am always open to discussing open source and tech with new people! Send me a message on [email](mailto:charlesbarnes.js@gmail.com).
